@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaddieG-Codes
-- 👀 I’m interested in Web Development, Game Development, and A.I.
-- 🌱 I’m currently learning web development basics
-- 💞️ I’m looking to collaborate on cool projects 
-- 📫 How to reach me 
+- 👋 Hi, I’m @Madison Galloway
+- 👀 I’m interested in Renewable Energy, MircoGrids, and Arduinos.
+- 🌱 I’m currently pursuing my bachelor's degree in EECE
+- 💞️ I’m looking to collaborate on cool projects and learn more about interest 
 
 <!---
 MaddieG-Codes/MaddieG-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
